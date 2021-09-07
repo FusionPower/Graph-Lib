@@ -2,5 +2,7 @@
 
 
 -Conectivity queries
+
 -LCA
+
 -Pairings
